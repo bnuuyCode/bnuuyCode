@@ -35,6 +35,4 @@ bnnuyCode
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/bnuuyCode/bnuuyCode/output/snake.svg" alt="Snake animation" />
-
 ###
