@@ -1,4 +1,3 @@
-bnnuyCode
 <h2 align="left">Hi 💗! My name is Marcele and I'm a technology lover, from Brasil ૮₍ ˃ ᵕ ˂ ₎ა</h2>
 
 ###
