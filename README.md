@@ -1,4 +1,4 @@
-<h2 align="left">Hi 💗! My name is Marcele and I'm a technology lover, from Brasil ૮₍ ˃ ᵕ ˂ ₎ა</h2>
+<h2 align="left">Hi 💗! My name is Marseille and I'm a technology lover, from Brasil ૮₍ ˃ ᵕ ˂ ₎ა</h2>
 
 ###
 
