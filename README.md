@@ -8,7 +8,7 @@
 
 Most of what's here exists because I didn't want to do something by hand twice.
 
-Java and Python on the back end. Anything that has to look good I draw in code and walk away. Apparently that's called generative design.
+Java and Python on the back end. Anything that has to look good I draw in code and walk away.
 
 Dashboards that show a number without saying when it's from annoy me more than they should.
 
