@@ -32,7 +32,7 @@ no image generator, nothing bought and nothing copied.
 
 `Python` ✦ `Playwright` ✦ `Pillow` ✦ `SVG` ✦ `HTML` ✦ `CSS`
 
-**[ImageUtilities](https://github.com/bnuuyCode/ImageUtilities)**: the small scripts I actually
+**[ImageUtilities](https://github.com/bnuuyCode/ImageUtilities)**: the small scripts I used to
 run every week. Resize by dimension or by file size, convert between formats into date-named
 folders, match a folder of product photos against a spreadsheet.
 
