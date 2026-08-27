@@ -6,11 +6,11 @@
 
 <br>
 
-I write tools so the parts I don't like do themselves.
+Most of what's here exists because I didn't want to do something by hand twice.
 
-Java on the back end, Python for anything visual, and one rule I don't bend:
-**a number on screen has to say how fresh it is.** A failed fetch shows *stale*.
-Never yesterday's value dressed up as today's.
+Java and Python on the back end. When something has to look good, I draw it in Python and walk away.
+
+Dashboards that show a number without saying when it's from annoy me more than they should.
 
 <br>
 
