@@ -32,6 +32,13 @@ no image generator, nothing bought and nothing copied.
 
 `Python` ✦ `Playwright` ✦ `Pillow` ✦ `SVG` ✦ `HTML` ✦ `CSS`
 
+**[universal-nihilism-engine](https://github.com/bnuuyCode/universal-nihilism-engine)**: an
+enterprise grade platform for the exhaustive computational verification of a single boolean.
+Thirty eight types, eleven packages, seven design patterns and ten architecture decision
+records, all so that three minutes of saturating every core can arrive at `true`.
+
+`Java 17` ✦ `Maven` ✦ `zero runtime dependencies`
+
 **[ImageUtilities](https://github.com/bnuuyCode/ImageUtilities)**: the small scripts I used to
 run every week. Resize by dimension or by file size, convert between formats into date-named
 folders, match a folder of product photos against a spreadsheet.
